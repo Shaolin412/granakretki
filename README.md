@@ -1,0 +1,2 @@
+# granakretki
+gra nakretki
